@@ -1,17 +1,17 @@
 # Office-Pro
 CIS 2931: Advanced Project Systems Course Project
 
-**Group Members:**
+~Group Members:
   1. Garrett Womack
   2. Tanya Cruz
   3. Brendan Stroud
   4. Eleazar De Paz
   5. Kelvin Manuel
 
-**Project Description**
-  - Create a Web Application used by a customer looking to          purchase office supplies, and also a internal employee          whose job is to process/fulfill orders placed by customers.
+~ Project Description
+  - Create a Web Application used by a customer looking topurchase office            supplies, and also a internal employee whose job is to process/fulfill           orders placed by customers.
 
-**Project Requirments:**
+~ Project Requirments:
   - Customer:
       1. search for products
       2. make a purchase without creating an account
@@ -22,7 +22,7 @@ CIS 2931: Advanced Project Systems Course Project
       2.view list of orderes needing to be fulfilled
       3.change order status from unfulfilled tp fulfilled
 
-**My Contributions:**
+~ My Contributions:
   1.Login Page customer/employee
     - employeeLogin.jsp
     - customerLogin.jsp
